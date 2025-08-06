@@ -1,0 +1,9 @@
+.DS_Store
+checkpoints/*
+checkpoints2/*
+!checkpoints/.gitkeep
+!checkpoints2/.gitkeep
+train2017/*
+!train2017/.gitkeep
+test2017/*
+!test2017/*
